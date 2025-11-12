@@ -23,7 +23,7 @@ repository               : "MatevzTurk.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profilepic.jpg"
+  avatar           : "Profilepic.JPG"
   name             : "Matevž Turk  "
   bio              : "Short biography for the left-hand sidebar"
   location         : "Uppsala, Sweden"
