@@ -33,30 +33,30 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Uppsala Universitet",
+      "area": "Ph.D in Materials Chemistry",
+      "studyType": "Third cycle",
+      "startDate": "2025",
+      "endDate": "2029",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "institution": "University of Ljubljana",
+      "area": "M.S. in Chemistry",
+      "studyType": "Second cycle",
+      "startDate": "2022",
+      "endDate": "2025",
+      "gpa": 9.9 / 10.0 (≈ 3.9 / 4.0 U.S. scale),
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "University of Ljubljana",
+      "area": "B.S. in Chemistry",
+      "studyType": "First cycle",
+      "startDate": "2019",
+      "endDate": "2022",
+      "gpa": 9.9 / 10.0 (≈ 3.9 / 4.0 U.S. scale),
       "courses": []
     }
   ],
