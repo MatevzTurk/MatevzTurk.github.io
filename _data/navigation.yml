@@ -27,7 +27,7 @@ main:
   #  url: /cv/
     
    - title: "CV"
-     url: /cv-json/
+     url: /_data/cv.json
     
   # - title: "Guide"
   #   url: /markdown/
