@@ -16,7 +16,8 @@ To Do List:
 - Fix markdown CV problem
 - Figure out what to do with Homepage
 - Figure out a better short summary in CV and on the left
-Usefuk tools:
+
+Useful tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
 - [Mermaid](https://mermaid.js.org/) for diagraming
 - [Plotly](https://plotly.com/javascript/) for plotting
