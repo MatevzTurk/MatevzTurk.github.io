@@ -1,32 +1,32 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Matevž Turk",
+    "email": "matevz.turk@kemi.uu.se",
+    "phone": "/",
+    "website": "https://matevzturk.github.io/",
+    "summary": "1st year PhD student at Uppsala University, Materials Chemistry Group",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "address": "Lägerhyddsvägen 1",
+      "postalCode": "752 37",
+      "city": "Uppsala",
+      "countryCode": "SWE",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=tPhP7EgAAAAJ&hl=sl&oi=ao"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0001-9863-0622"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "MatevzTurk",
+        "url": "https://github.com/MatevzTurk"
       }
     ]
   },
@@ -37,7 +37,7 @@
       "area": "Ph.D in Materials Chemistry",
       "studyType": "Third cycle",
       "startDate": "2025",
-      "endDate": "2029",
+      "endDate": "2029 (Expected)",
       "gpa": null,
       "courses": []
     },
@@ -66,64 +66,64 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
+      "name": "Interaction of Sodium Polystyrenesulfonate with Fluorinated Ionic Surfactant of Opposite Charge",
+      "publisher": "Langmuir",
+      "releaseDate": "2025-10-07",
+      "website": "https://pubs.acs.org/doi/10.1021/acs.langmuir.5c02918",
       "summary": "This paper is about the number 1. The number 2 is left for future work."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
+      "name": "Integral equation theory study of the two dimensional SRSS model",
+      "publisher": "Computational and Theoretical Chemistry",
+      "releaseDate": "2025-02",
+      "website": "https://www.sciencedirect.com/science/article/pii/S2210271X24005759",
       "summary": "This paper is about the number 2. The number 3 is left for future work."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
+      "name": "Areas of anomalous properties as function of shape of potential",
+      "publisher": "Fluid Phase Equilibria",
+      "releaseDate": "2024-02",
+      "website": "https://www.sciencedirect.com/science/article/pii/S0378381223002686",
       "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
     }
   ],
-  "presentations": [
+  "Conference Posters": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
+      "name": "Determination of anomalous regions and phase transitions in continuous shouldered well model",
+      "event": "38th International Conference on Solution Chemistry",
+      "date": "9-14, 2023-07-09",
+      "location": "Belgrade, Serbia",
       "description": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
+      "name": "Anomalous regions and phase transitions in core-softened models",
+      "event": "3rd European NECTAR Conference",
+      "date": "2022-08-24",
+      "location": "Ljubljana, Slovenia",
       "description": ""
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "Anomalous regions in core-softened models",
+      "event": "37th International Conference on Solution Chemistry",
+      "date": "2022-07-25",
+      "location": "Columbia, USA",
       "description": ""
     }
   ],
+  "Awards": [
+  {
+    "title": "Award for Highest GPA",
+    "awarder": "University of Ljubljana",
+    "date": "2022-02-08",
+    "summary": "Award for achieving the highest GPA in the academic year 2020–2021"
+  },
+  {
+    "title": "Krka Award",
+    "awarder": "Krka d.d.",
+    "date": "2025-10-17",
+    "summary": "Award for Outstanding Graduate Thesis"
+  }
+],
   "teaching": [
     {
       "course": "Teaching experience 1",
