@@ -1,5 +1,5 @@
 ---
-title: "Thermodynamics of Simple Water Models"
+title: "Investigating Thermodynamics of Simple Water Models"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/Urbic.png'>"
 collection: portfolio
 ---
