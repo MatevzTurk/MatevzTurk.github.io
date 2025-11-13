@@ -60,6 +60,25 @@
       "courses": []
     }
   ],
+
+  "work": [
+  {
+    "position": "Chemistry Teacher",
+    "company": "Gimnazija Novo mesto",
+    "startDate": "2024-09",
+    "endDate": "2025-06",
+    "summary": "Worked as a full-time chemistry teacher at an elite high school."
+  },
+  {
+    "position": "Research Assistant",
+    "company": "Krka d.d.",
+    "startDate": "2022-08",
+    "endDate": "2024-08",
+    "summary": "Worked as a Research Assistant during the summers of 2022, 2023, and 2024."
+    ]
+  }
+  ],
+  
   "skills": [],
   "languages": [
   {
@@ -134,22 +153,7 @@
     "summary": ""
   }
 ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+
   "portfolio": [
     {
       "name": "Portfolio item number 1",
