@@ -94,7 +94,24 @@
   }
   ],
   "interests": [],
-  "references": [],
+  "references": [
+  {
+    "name": "Prof. Amber Mace",
+    "reference": "Assistant Professor at Uppsala University. Contact: amber.mace@kemi.uu.se"
+  },
+  {
+    "name": "Prof. Ksenija Kogej",
+    "reference": "Full-time Professor at University of Ljubljana. Contact: Ksenija.Kogej@fkkt.uni-lj.si"
+  },
+  {
+    "name": "Prof. Per Hansson",
+    "reference": "Full-time Professor at Uppsala University. Contact: per.hansson@ilk.uu.se"
+  },
+  {
+    "name": "Prof. Tomaž Urbič",
+    "reference": "Full-time Professor at University of Ljubljana. Contact: Tomaz.Urbic@fkkt.uni-lj.si"
+  }
+  ],
   "publications": [
     {
       "name": "Interaction of Sodium Polystyrenesulfonate with Fluorinated Ionic Surfactant of Opposite Charge",
