@@ -89,12 +89,18 @@
             <strong>Courses:</strong> {{ education.courses | join: ", " }}
           </div>
           {% endif %}
+           {% if education.thesisUrl %}
+          <div class="cv-item-detail">
+            <strong>Thesis available at:</strong> <a href="{{ education.thesisUrl }}" target="_blank">{{ education.thesisUrl }}</a>
+          </div>
+          {% endif %}
         </div>
       </li>
       {% endfor %}
     </ul>
   </div>
   {% endif %}
+  {% if cv.education.size > 0 %}
   
   {% if cv.work.size > 0 %}
   <!-- Work Experience -->
