@@ -4,7 +4,7 @@
     "email": "matevz.turk@kemi.uu.se",
     "phone": "/",
     "website": "https://matevzturk.github.io/",
-    "summary": "1st year PhD student at Uppsala University, Materials Chemistry Group",
+    "summary": "1st year PhD student in Theoretical Structural Chemistry Group at Uppsala University.",
     "location": {
       "address": "Lägerhyddsvägen 1",
       "postalCode": "752 37",
@@ -33,7 +33,7 @@
   "education": [
     {
       "institution": "Uppsala Universitet",
-      "area": "Ph.D in Materials Chemistry",
+      "area": "Ph.D in Theoretical Chemistry",
       "studyType": "Third cycle",
       "startDate": "2025",
       "endDate": "Ongoing",
