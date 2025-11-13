@@ -186,10 +186,24 @@
 
   "portfolio": [
     {
-      "name": "Thermodynamics of Simple Water Models",
+      "name": "Modelling Diffusion in Solid-State Electrolytes",
       "category": "",
       "date": "",
       "url": "https://matevzturk.github.io/portfolio/portfolio-1",
+      "description": "Development of computational tools based on the TuTraSt algorithm for calculating self-diffusion coefficients of ions in solid-state electrolytes.<br/><img src='/images/PhD.png'>"
+    },
+    {
+      "name": "Studying Fluorinated Surfactant - Polyelectrolyte Interactions",
+      "category": "",
+      "date": "",
+      "url": "https://matevzturk.github.io/portfolio/portfolio-2",
+      "description": "Study of interactions between sodium polystyrene sulfonate and cationic surfactants to elucidate the role of hydrophobicity in polyelectrolyte–surfactant complex formation.<br/><img src='/images/Masters.png'>"
+    },
+    {
+      "name": "Thermodynamics of Simple Water Models",
+      "category": "",
+      "date": "",
+      "url": "https://matevzturk.github.io/portfolio/portfolio-3",
       "description": "Investigation of the phase behavior and anomalous properties of core-softened water models using molecular simulations and integral equation theory.<br/><img src='/images/Urbic.png'>"
     }
   ]
