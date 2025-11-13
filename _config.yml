@@ -24,8 +24,8 @@ repository               : "MatevzTurk.github.io"
 author:
   # Biographic information
   avatar           : "Profilepic.png"
-  name             : "Matevž Turk  "
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Matevž Turk"
+  bio              : "1st year PhD student in Theoretical Structural Chemistry Group at Uppsala University."
   location         : "Uppsala, Sweden"
   employer         : "Uppsala University"
   uri              : # URL
