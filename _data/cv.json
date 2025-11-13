@@ -172,11 +172,11 @@
 
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
+      "name": "Thermodynamics of Simple Water Models",
+      "category": "",
       "date": "",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Investigation of the phase behavior and anomalous properties of core-softened water models using molecular simulations and integral equation theory. 1<br/><img src='/images/Urbic.png'>"
     }
   ]
 }
