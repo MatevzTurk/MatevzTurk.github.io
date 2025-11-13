@@ -286,6 +286,30 @@
     </div>
   {% endif %}
 
+
+  {% if cv.exchanges and cv.exchanges.size > 0 %}
+  <!-- Exchanges / Study Abroad -->
+  <div class="cv-section">
+    <h2>Exchanges</h2>
+    <ul class="cv-list">
+      {% for exchange in cv.exchanges %}
+      <li class="cv-item">
+        <div class="cv-item-header">
+          <div class="cv-item-title">{{ exchange.program }}</div>
+          <div class="cv-item-date">{{ exchange.startDate }}{% if exchange.endDate %} - {{ exchange.endDate }}{% endif %}</div>
+        </div>
+        <div class="cv-item-content">
+          <div class="cv-item-subtitle">{{ exchange.institution }}</div>
+          {% if exchange.description %}
+          <div class="cv-item-detail">{{ exchange.description }}</div>
+          {% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+  
   {% if cv.awards and cv.awards.size > 0 %}
     <!-- Awards -->
     <div class="cv-section">
