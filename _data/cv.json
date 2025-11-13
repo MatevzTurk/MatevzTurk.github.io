@@ -153,6 +153,22 @@
       "description": ""
     }
   ],
+  "exchanges": [
+  {
+    "program": "Erasmus+ Exchange",
+    "institution": "Uppsala University",
+    "startDate": "2023-09",
+    "endDate": "2024-02",
+    "description": "Conducted research on polyelectrolyte–surfactant systems while completing advanced theoretical and organic chemistry courses."
+  },
+  {
+    "program": "EUTOPIA Exchange",
+    "institution": "Vrije Universiteit Brussel",
+    "startDate": "2024-04",
+    "endDate": "2024-05",
+    "description": "Performed grand-canonical Monte Carlo simulations to investigate gas adsorption in ZIFs for thermal battery applications."
+  }
+  ],
   "awards": [
   {
     "title": "University Award for Highest GPA in Academic Year 2020-2021",
