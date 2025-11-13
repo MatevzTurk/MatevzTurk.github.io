@@ -199,6 +199,32 @@
   </div>
   {% endif %}
 
+  {% if cv.conference_posters.size > 0 %}
+  <!-- Conference Posters -->
+  <div class="cv-section">
+    <h2>Conference Posters</h2>
+    <ul class="cv-list">
+      {% for poster in cv.conference_posters %}
+      <li class="cv-item">
+        <div class="cv-item-header">
+          <div class="cv-item-title">{{ poster.name }}</div>
+          <div class="cv-item-date">{{ poster.date | slice: 0, 4 }}</div>
+        </div>
+        <div class="cv-item-content">
+          <div class="cv-item-subtitle">{{ poster.event }}</div>
+          {% if poster.location %}
+          <div class="cv-item-detail">{{ poster.location }}</div>
+          {% endif %}
+          {% if poster.description %}
+          <div class="cv-item-detail">{{ poster.description }}</div>
+          {% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
   {% if cv.awards.size > 0 %}
   <!-- Awards -->
   <div class="cv-section">
