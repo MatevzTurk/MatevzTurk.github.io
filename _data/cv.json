@@ -61,7 +61,20 @@
     }
   ],
   "skills": [],
-  "languages": [],
+  "languages": [
+  {
+    "language": "Slovenian",
+    "fluency": "Native"
+  },
+  {
+    "language": "English",
+    "fluency": "Fluent"
+  },
+  {
+    "language": "Swedish",
+    "fluency": "Intermediate"
+  }
+  ]
   "interests": [],
   "references": [],
   "publications": [
