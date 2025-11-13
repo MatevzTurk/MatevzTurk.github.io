@@ -1,7 +1,7 @@
 ---
-title: "Simple Water Models"
+title: "Thermodynamics of Simple Water Models"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/Urbic.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Investigation of the phase behavior and anomalous properties of core-softened water models using molecular simulations and integral equation theory.
