@@ -155,31 +155,31 @@
   ],
   "exchanges": [
   {
-    "program": "Erasmus+ Exchange",
-    "institution": "Uppsala University",
-    "startDate": "2023-09",
-    "endDate": "2024-02",
-    "description": "Conducted research on polyelectrolyte–surfactant systems while completing advanced theoretical and organic chemistry courses."
-  },
-  {
     "program": "EUTOPIA Exchange",
     "institution": "Vrije Universiteit Brussel",
     "startDate": "2024-04",
     "endDate": "2024-05",
     "description": "Performed grand-canonical Monte Carlo simulations to investigate gas adsorption in ZIFs for thermal battery applications."
+  },
+  {
+    "program": "Erasmus+ Exchange",
+    "institution": "Uppsala University",
+    "startDate": "2023-09",
+    "endDate": "2024-02",
+    "description": "Conducted research on polyelectrolyte–surfactant systems while completing advanced theoretical and organic chemistry courses."
   }
   ],
   "awards": [
   {
-    "title": "University Award for Highest GPA in Academic Year 2020-2021",
-    "awarder": "University of Ljubljana",
-    "date": "2022-02-08",
-    "summary": ""
-  },
-  {
     "title": "Krka Award for Outstanding Graduate Thesis",
     "awarder": "Krka d.d.",
     "date": "2025-10-17",
+    "summary": ""
+  },
+  {
+    "title": "University Award for Highest GPA in Academic Year 2020-2021",
+    "awarder": "University of Ljubljana",
+    "date": "2022-02-08",
     "summary": ""
   }
 ],
