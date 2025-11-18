@@ -24,6 +24,4 @@ Our goal is to investigate whether these models can reproduce hallmark propertie
 - [Turk, M.; Tomaz Urbic. Areas of Anomalous Properties as Function of Shape of Potential. Fluid Phase Equilibria 2024, 577, 113988–113988.](https://www.sciencedirect.com/science/article/pii/S0378381223002686)
 - [Turk, M.; Tomaz Urbic. Integral Equation Theory Study of the Two Dimensional SRSS Model. Computational and Theoretical Chemistry 2024, 115036–115036.](https://www.sciencedirect.com/science/article/pii/S2210271X24005759)
 
----
-
 For the full simulation software (MC/MD codes for 2D systems), see the GitHub repository **[here](https://github.com/MatevzTurk/MS_Software)**.
