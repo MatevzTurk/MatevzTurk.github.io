@@ -22,6 +22,10 @@
     {% if cv.basics.label %}
       <h2>{{ cv.basics.label }}</h2>
     {% endif %}
+
+    <img src="{{ '/images/Profilepic.png' | relative_url }}"
+       alt="Profile photo"
+       style="float: right; width: 180px; margin: 0 0 15px 25px; border-radius: 8px;">
     
     <div class="cv-contact">
       {% if cv.basics.email %}
