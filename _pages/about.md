@@ -8,45 +8,20 @@ redirect_from:
 ---
 
 ![Illustration theoretical chemistry](/images/doodle.png){: .align-right width="250px"}
+
 I'm a first year PhD student in the Theoretical Materials Chemistry group at Uppsala University.
 
-My fields of interest span from theoretical and computational chemistry to experimental physical chemistry and organic synthesis
+My fields of interest span from theoretical and computational chemistry to experimental physical chemistry and organic synthesis.
 
 I'm currently working on modelling ion diffusion in solid-state electrolyte materials.
 
-
-
-
-
-
-
-
-
-Homepage is currently work in progress...
-
-To Do List:
+Fields of Research
 ======
-- Include a picture in CV
-- Edit portfolio entries; add detailed project descriptions, link relevant papers for each project, create and link repositories with develloped software (MC+MD for water project, TuTraSt code + link to the group page for PhD project)
-- Fix markdown CV problem
-- Figure out what to do with Homepage
-- Figure out a better short summary in CV and on the left
+I believe in building a comprehensive understanding of chemistry, and I enjoy exploring diverse areas. My experience spans:
 
-Useful tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+- **Software development for chemical simulations** 💻  
+- **Experimental physical chemistry** ⚗️
+- **Organic synthesis** 🧪
+- **Teaching** 🧑‍🏫
 
-Numbering
-======
-1. First point
-2. Second point
-
-SubTitle
-------
-Thats how you make a clickable: [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml). 
-
-**SubSubTitle**
-
-Example of an image include
-![Editing a Markdown file for a talk](/images/Urbic.png)
+You can find out more about my projects in the [Portfolio](https://matevzturk.github.io/portfolio) section. 
