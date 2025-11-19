@@ -347,7 +347,7 @@
       <ul class="cv-list">
         {% for language in cv.languages %}
           <li class="cv-item">
-            <div class="cv-item-content">
+            <div class="cv-item-content" style="display: flex; justify-content: space-between; align-items: center;">
               <div class="cv-item-title">{{ language.language }}</div>
               <div class="cv-item-detail">{{ language.fluency }}</div>
             </div>
