@@ -1,11 +1,24 @@
 ---
 permalink: /
-title: "Welcome to my Homepage 👋!"
+title: "👋 Hello, I'm Matevž!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+![Illustration theoretical chemistry](/images/doodle.png){: .align-right width="300px"}
+I'm a first year PhD student in the Theoretical Materials Chemistry group at Uppsala University.
+
+I'm currently working on modelling ion diffusion in solid-state electrolyte materials.
+
+
+
+
+
+
+
+
 
 Homepage is currently work in progress...
 
