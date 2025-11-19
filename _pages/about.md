@@ -15,7 +15,7 @@ My fields of interest span from theoretical and computational chemistry to exper
 
 I'm currently working on modelling ion diffusion in solid-state electrolyte materials.
 
-Fields of Research
+Fields of Interest
 ======
 I believe in building a comprehensive understanding of chemistry, and I enjoy exploring diverse areas. My experience spans:
 
