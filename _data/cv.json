@@ -64,15 +64,15 @@
   {
     "position": "Chemistry Teacher",
     "company": "Gimnazija Novo mesto",
-    "startDate": "2024-09",
-    "endDate": "2025-06",
+    "startDate": "Sep 2024",
+    "endDate": "Jun 2025",
     "summary": "Worked as a full-time chemistry teacher at an elite high school."
   },
   {
     "position": "Research Assistant",
     "company": "Krka d.d.",
-    "startDate": "2022-08",
-    "endDate": "2024-08",
+    "startDate": "Aug 2022",
+    "endDate": "Aug 2024",
     "summary": "Worked as a Research Assistant during the summers of 2022, 2023, and 2024."
   }
   ],
@@ -157,19 +157,25 @@
   {
     "program": "EUTOPIA Exchange",
     "institution": "Vrije Universiteit Brussel",
-    "startDate": "2024-04",
-    "endDate": "2024-05",
+    "startDate": "Apr 2024",
+    "endDate": "May 2024",
     "description": "Performed grand-canonical Monte Carlo simulations to investigate gas adsorption in ZIFs for thermal battery applications."
   },
   {
     "program": "Erasmus+ Exchange",
     "institution": "Uppsala University",
-    "startDate": "2023-09",
-    "endDate": "2024-02",
+    "startDate": "Sep 2023",
+    "endDate": "Feb 2024",
     "description": "Conducted research on polyelectrolyte–surfactant systems while completing advanced theoretical and organic chemistry courses."
   }
   ],
   "awards": [
+  {
+    "title": "University Prešeren Award",
+    "awarder": "University of Ljubljana",
+    "date": "2025-12-12",
+    "summary": ""
+  },
   {
     "title": "Krka Award for Outstanding Graduate Thesis",
     "awarder": "Krka d.d.",
