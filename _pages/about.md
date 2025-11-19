@@ -10,6 +10,8 @@ redirect_from:
 ![Illustration theoretical chemistry](/images/doodle.png){: .align-right width="250px"}
 I'm a first year PhD student in the Theoretical Materials Chemistry group at Uppsala University.
 
+My fields of interest span from theoretical and computational chemistry to experimental physical chemistry and organic synthesis
+
 I'm currently working on modelling ion diffusion in solid-state electrolyte materials.
 
 
