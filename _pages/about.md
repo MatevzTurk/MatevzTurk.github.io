@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration theoretical chemistry](/images/doodle.png){: .align-right width="300px"}
+![Illustration theoretical chemistry](/images/doodle.png){: .align-right width="200px"}
 I'm a first year PhD student in the Theoretical Materials Chemistry group at Uppsala University.
 
 I'm currently working on modelling ion diffusion in solid-state electrolyte materials.
