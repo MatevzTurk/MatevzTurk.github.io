@@ -18,14 +18,15 @@
 <div class="cv-container">
   <!-- Basic Information -->
   <div class="cv-section cv-header">
-    <h1>{{ cv.basics.name }}</h1>
-    {% if cv.basics.label %}
-      <h2>{{ cv.basics.label }}</h2>
-    {% endif %}
 
     <img src="{{ '/images/Profilepic.png' | relative_url }}"
        alt="Profile photo"
        style="float: right; width: 180px; margin: 0 0 15px 25px; border-radius: 8px;">
+    
+    <h1>{{ cv.basics.name }}</h1>
+    {% if cv.basics.label %}
+      <h2>{{ cv.basics.label }}</h2>
+    {% endif %}
     
     <div class="cv-contact">
       {% if cv.basics.email %}
