@@ -6,7 +6,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2025-10-07
 venue: 'Langmuir'
-slidesurl: ''
+
 paperurl: 'https://pubs.acs.org/doi/10.1021/acs.langmuir.5c02918'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Turk, M.; Ksenija Kogej; Hansson, P. Interaction of Sodium Polystyrenesulfonate with Fluorinated Ionic Surfactant of Opposite Charge. Langmuir 2025, 41 (39), 26673–26682.'
